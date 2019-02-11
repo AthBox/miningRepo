@@ -8,7 +8,7 @@ This repository contains the group projects undertaken during the course "Data M
 
 ### 2nd Assignment - neo4j, graph database, chess
 1. [Assignment Description](https://github.com/NatazaF/Data_Mining_Master_project/blob/master/neo4j_chess/Proj2_Neo4j_Chess.pdf) 
-2. [Report](neo4j_chess/neo4jChess_Report.pdf)
+2. [Report](https://github.com/NatazaF/Data_Mining_Master_project/blob/master/neo4j_chess/neo4jProject_Report.pdf)
 
 
 
